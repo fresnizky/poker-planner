@@ -1,4 +1,4 @@
-app = "poker-planner-bff4"
+app = "poker-planner"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
